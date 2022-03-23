@@ -1,0 +1,15 @@
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.csproj.AssemblyReference.cache
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.AssemblyInfoInputs.cache
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.AssemblyInfo.cs
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.csproj.CoreCompileInputs.cache
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\Produto.exe
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\Produto.deps.json
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\Produto.runtimeconfig.json
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\Produto.dll
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\ref\Produto.dll
+C:\Projects\Produto\Produto\Produto\bin\Debug\net6.0\Produto.pdb
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.dll
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\ref\Produto.dll
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.pdb
+C:\Projects\Produto\Produto\Produto\obj\Debug\net6.0\Produto.genruntimeconfig.cache
